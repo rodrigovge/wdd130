@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 
 .logo {
     width: 80px;
@@ -34,7 +34,7 @@ body {
     margin: 0 auto;
     padding: 0;
     background-color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, Helvetica, sans-serif;
     font-size: 22px;
 }  
 nav {
@@ -55,7 +55,7 @@ nav a:hover {
 .home-title {
     
     color: white;
-    font-family: "Nunito", Arial, sans-serif;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -157,7 +157,7 @@ header {
 .msg h2 {
     background-color:#AE864C;
     color: white;
-    font-family: "Nunito";
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
 }
 .msg p {
     background-color:#AE864C;
