@@ -257,8 +257,8 @@ header {
 
 /* FOOTER */
 footer {
-    background-color: #AE864C;
-    color: black;
+    background-color: #245A7F;
+    color: white;
     padding: 25px 50px;
     margin-top: 1em; 
     display: flex;
@@ -266,12 +266,12 @@ footer {
     align-items: center;
 }
 footer a {
-    background-color:#AE864C;
-    color: black;
+    background-color:#245A7F;
+    color: white;
     text-decoration: none;
 }
 footer a:hover {
-    background-color:#AE864C;
+    background-color:#245A7F;
     color: white;
 }
 footer p {
