@@ -1,5 +1,13 @@
 /*Page Recursive Header Style*/
 
+h1, h2, h3 {
+    font-family: "Fira Code", "Courier New", monospace;
+}
+
+p {
+    font-family: "Inter", Tahoma, sans-serif;
+}
+
 header {
     background-color: #112240;
     font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
@@ -57,7 +65,7 @@ h2 {
 }
 
 h3, p {
-    color:#6285BA;
+    color:whitesmoke;
     font-size: 1.35vw;
 }
 
